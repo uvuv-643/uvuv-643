@@ -1,7 +1,9 @@
-<img src="images/header.jpg" width="480"/>
+<p align="center">
+    <img src="images/header.jpg" width="480"/>
+</p>
 
-<h1>Hi There 👋</h2>
-<p >My name is Artem and welcome to my GitHub Profile</p>
+<h2 align="center">Hi There 👋</h2>
+<p align="center" >My name is Artem and welcome to my GitHub Profile</p>
 
 <img align="left" src="images/account.png" height="80px"/>
 
