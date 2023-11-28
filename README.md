@@ -79,7 +79,7 @@
 
 ```json
 {
-  "Best_Commercial_Projects": [
+  "Best_Freelance_Projects": [
     {
       "Title": "Makenude",
       "Technologies": [
@@ -120,6 +120,51 @@
   ]
 }
 ```
+
+
+<div align="center">
+    <table>
+        <tr>
+            <th></th>
+            <th>Achievement</th>
+            <th>Code and Description</th>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="images/sovkombank.png" width="140px"/>
+            </td>
+            <td align="center" width="380" height="112.43">
+                Hackathon - Telegram Bot, 3rd place
+            </td>
+            <td align="center" width="220" height="112.43">
+                <a target="_blank" href="https://github.com/ITSamantha/adventure-league-2023">GitHub repository</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="images/kontur.png" width="140px"/>
+            </td>
+            <td align="center" width="380" height="112.43">
+                Hackathon - Educational system, 3rd place
+            </td>
+            <td align="center" width="220" height="112.43">
+                <a target="_blank" href="https://github.com/uvuv-643/Hackathon_Urbathon">GitHub repository</a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="images/itmo.png" width="140px"/>
+            </td>
+            <td align="center" width="380" height="112.43">
+                Kaggle university competition, 2nd place
+            </td>
+            <td align="center" width="220" height="112.43">
+                <a target="_blank" href="https://www.kaggle.com/competitions/itmo-ml-bachelors-2023">Kaggle</a>
+            </td>
+        </tr>
+    </table>
+</div>
+
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvuv-643)](https://github.com/anuraghazra/github-readme-stats)
