@@ -7,21 +7,21 @@
 
 <img align="left" src="images/account.png" height="80px"/>
 
-```csharp
-    Personal Information
-    ------------------------------------------
-    Name: 'Artem'
-    Lastname: 'Zinatulin'
-    Nickname: 'uvuv-643'
-    Gender: 'Male'
-    Age: 20
-    Hobbies: ['Reading', 'Volleyball', 'Running', 'Philosophy', 'Coding']
-    Languages: {
-        'Russian': 'Native',
-        'Ukrainian': 'Native',
-        'English': 'B2'
+```json
+    Personal_Data: {
+        Name: 'Artem'
+        Lastname: 'Zinatulin'
+        Nickname: 'uvuv-643'
+        Gender: 'Male'
+        Age: 20
+        Hobbies: ['Reading', 'Volleyball', 'Running', 'Philosophy', 'Coding']
+        Languages: {
+            'Russian': 'Native',
+            'Ukrainian': 'Native',
+            'English': 'B2'
+        }
+        Occupation: 'Russian Federation'
     }
-    Occupation: 'Russian Federation'
 ```
 
 <br>
@@ -71,7 +71,7 @@
 
 <img align="right" src="images/project.png" height="80px"/>
 
-```csharp
+```json
     Best_Commercial_Projects: [
         {
             Title: 'Makenude',
@@ -90,7 +90,7 @@
         {
             Title: 'NoLimitsDate',
             Technologies: ['Laravel', 'HTML/CSS/JS'],
-            Description: 'I don\'t like this website, but it is very complex system and it has a lot of functionality',
+            Description: 'I don\'t like the concept of this website, but it is very complex system and it has a lot of functionality',
             Source_Code: null,
             Link: 'https://nolimitsdate.com'
         }
