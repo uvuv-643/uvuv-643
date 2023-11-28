@@ -7,7 +7,7 @@
 
 <img align="left" src="images/account.png" height="80px"/>
 
-```json
+```javascript
     Personal_Data: {
         Name: 'Artem'
         Lastname: 'Zinatulin'
@@ -71,7 +71,7 @@
 
 <img align="right" src="images/project.png" height="80px"/>
 
-```json
+```javascript
     Best_Commercial_Projects: [
         {
             Title: 'Makenude',
