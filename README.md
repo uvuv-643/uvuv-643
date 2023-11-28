@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="images/header.jpg" width="480"/>
-</p>
+<img src="images/header.jpg" width="480"/>
 
 <h1>Hi There 👋</h2>
 <p >My name is Artem and welcome to my GitHub Profile</p>
