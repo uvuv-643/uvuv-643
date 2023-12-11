@@ -93,7 +93,6 @@
       ],
       "Description": "10k unique users per day, API integration, image processing",
       "Source_Code": null,
-      "Link": "https://makenude.ai"
     },
     {
       "Title": "Alfaspo",
@@ -115,7 +114,6 @@
       ],
       "Description": "I don't like the concept of this website, but it is very complex system and it has a lot of functionality",
       "Source_Code": null,
-      "Link": "https://nolimitsdate.com"
     }
   ]
 }
