@@ -75,51 +75,6 @@
 
 <br>
 
-<img align="right" src="images/project.png" height="80px"/>
-
-```json
-{
-  "Best_Freelance_Projects": [
-    {
-      "Title": "Makenude",
-      "Technologies": [
-        "Laravel",
-        "Docker",
-        "HTML/CSS/JS",
-        "Webhooks",
-        "Websockets",
-        "Telegram API",
-        "FFMpeg"
-      ],
-      "Description": "10k unique users per day, API integration, image processing",
-      "Source_Code": null,
-    },
-    {
-      "Title": "Alfaspo",
-      "Technologies": [
-        "React JS",
-        "Math",
-        "Laravel",
-        "HTML/CSS"
-      ],
-      "Description": "Still not in production, a lot of math formulas, draw mode",
-      "Source_Code": "https://github.com/uvuv-643/alfaspo",
-      "Link": "https://alfaspo.uvuv643.online/material"
-    },
-    {
-      "Title": "NoLimitsDate",
-      "Technologies": [
-        "Laravel",
-        "HTML/CSS/JS"
-      ],
-      "Description": "I don't like the concept of this website, but it is very complex system and it has a lot of functionality",
-      "Source_Code": null,
-    }
-  ]
-}
-```
-
-
 <div align="center">
     <table>
         <tr>
