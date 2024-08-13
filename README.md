@@ -5,8 +5,6 @@
 <h2 align="center">Hi There 👋</h2>
 <p align="center" >My name is Artem, i'm 21 years old. Welcome to my GitHub Profile</p>
 
-<img align="left" src="images/account.png" height="80px"/>
-
 <br>
 
 <div align="center">
