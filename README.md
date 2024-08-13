@@ -3,32 +3,9 @@
 </p>
 
 <h2 align="center">Hi There 👋</h2>
-<p align="center" >My name is Artem and welcome to my GitHub Profile</p>
+<p align="center" >My name is Artem, i'm 21 years old. Welcome to my GitHub Profile</p>
 
 <img align="left" src="images/account.png" height="80px"/>
-
-```json
-{
-  "Name": "Artem",
-  "Lastname": "Zinatulin",
-  "Nickname": "uvuv-643",
-  "Gender": "Male",
-  "Age": 20,
-  "Hobbies": [
-    "Reading",
-    "Volleyball",
-    "Running",
-    "Philosophy",
-    "Coding"
-  ],
-  "Languages": {
-    "Russian": "Native",
-    "Ukrainian": "Native",
-    "English": "B2"
-  },
-  "Occupation": "Russian Federation"
-}
-```
 
 <br>
 
@@ -36,7 +13,7 @@
     <table width="560">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="65px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65px"/>
                 <br /> PHP Laravel
             </td>
             <td align="center" width="140" height="112.43">
