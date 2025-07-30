@@ -1,100 +1,19 @@
-<p align="center">
-    <img src="images/header.jpg" width="480"/>
+<h1 align="center">Hi 👋, I'm Artem</h1>
+<h3 align="center">A frontend developer from Saint-Petersburg</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uvuv-643&label=Profile%20views&color=0e75b6&style=flat" alt="uvuv-643" /> </p>
+
+- 🔭 I’m currently working on **Yandex l10n, i18n projects**
+
+- 📫 How to reach me **telegram @uvuv643**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<h2 align="center">Hi There 👋</h2>
-<p align="center" >My name is Artem, i'm 21 years old. Welcome to my GitHub Profile</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uvuv-643&show_icons=true&locale=en&layout=compact" alt="uvuv-643" /></p>
 
-<div align="center">
-    <table width="560">
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65px"/>
-                <br /> PHP Laravel
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65px"/>
-                <br /> Javascript
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65px"/>
-                <br /> React JS
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65px"/>
-                <br /> Spring
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65px"/>
-                <br /> SQL
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="65px"/>
-                <br /> Docker
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="65px"/>
-                <br /> Golang
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65px"/>
-                <br /> Python (DS/ML)
-            </td>
-        </tr>
-    </table>
-</div>
-
-<br>
-
-<div align="center">
-    <table>
-        <tr>
-            <th></th>
-            <th>Achievement</th>
-            <th>Code and Description</th>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="images/sovkombank.png" width="140px"/>
-            </td>
-            <td align="center" width="380" height="112.43">
-                Hackathon - Telegram Bot, 3rd place
-            </td>
-            <td align="center" width="220" height="112.43">
-                <a target="_blank" href="https://github.com/ITSamantha/adventure-league-2023">GitHub repository</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="images/kontur.png" width="140px"/>
-            </td>
-            <td align="center" width="380" height="112.43">
-                Hackathon - Educational system, 3rd place
-            </td>
-            <td align="center" width="220" height="112.43">
-                <a target="_blank" href="https://github.com/uvuv-643/Hackathon_Urbathon">GitHub repository</a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140" height="112.43">
-                <img src="images/itmo.png" width="140px"/>
-            </td>
-            <td align="center" width="380" height="112.43">
-                Kaggle university competition, 2nd place
-            </td>
-            <td align="center" width="220" height="112.43">
-                <a target="_blank" href="https://www.kaggle.com/competitions/itmo-ml-bachelors-2023">Kaggle</a>
-            </td>
-        </tr>
-    </table>
-</div>
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvuv-643)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvuv-643&show_icons=true&locale=en" alt="uvuv-643" /></p>
